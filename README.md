@@ -7,9 +7,9 @@
 
 ## General
 This project was made to per request by the company Horiseon. Horiseon is a 
-marketing company that wants their website optimized for search engines.
+ social media marketing company that wants their website optimized for search engines.
 The goal is to make sure that the website code is clean and follows 
-accessibility standards .
+accessibility standards.
 	
 ## Technologies
 Project is created with:
@@ -20,6 +20,7 @@ Project is created with:
 ## Setup
 To run this project, follow this link https://github.com/Menkoi/horiseon-marketing. click on CODE and download as zip file to install it locally. 
 
-$ cd ../lorem
-$ npm install
-$ npm start
+follow this link to view live version of this website. 
+https://menkoi.github.io/horiseon-marketing/
+
+
