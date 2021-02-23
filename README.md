@@ -1,4 +1,7 @@
 <img src="https://i.imgur.com/cwLTOc4.png"/></a>
+
+![badmath](https://img.shields.io/badge/License-MIT-blue)
+
 # HORISEON MARKETING
 
 ## Table of contents
@@ -25,3 +28,11 @@ follow this link to view live version of this website.
 https://menkoi.github.io/horiseon-marketing/
 
 
+## Questions? Contact me
+
+  - Menkoi
+
+  - https://github.com/Menkoi
+
+  - celaeon@gmail.com
+  
